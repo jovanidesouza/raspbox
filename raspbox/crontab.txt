@@ -1,0 +1,1 @@
+@reboot sh /home/raspbox/fan/fan.sh & >/home/raspbox/logs/cronlog 2>&1
