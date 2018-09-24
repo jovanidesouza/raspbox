@@ -1,0 +1,1 @@
+Atualização do raspbox para a versão 1.1
