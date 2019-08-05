@@ -1,6 +1,6 @@
 # RaspBox
 
-Repository for: **RaspBox** a Home Theater Personal Computer builded with [Raspberry Pi 3 model B](https://www.raspberrypi.org/)
+**RaspBox** a Home Theater Personal Computer builded with [Raspberry Pi 3 model B](https://www.raspberrypi.org/)
 
 
 ## Raspbox version one:
@@ -21,7 +21,7 @@ The first version of the HTPC, builded in a homemade ABS case.
   - Micro SD port for loading the operating system
   
 - Sata 3 Hard Drive (500 gb, up to 4 tb)
-- USB hub, tto extend the connected devices
+- USB hub, to extend the connected devices
 - Fans to keep cooling the system
 - Leds to indicate power and shutdown
 - 5 volts, 5 amps power supply
