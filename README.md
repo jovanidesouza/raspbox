@@ -3,7 +3,7 @@
 **RaspBox** a Home Theater Personal Computer builded with [Raspberry Pi 3 model B](https://www.raspberrypi.org/)
 
 
-## Raspbox version one:
+## Raspbox first version (prototype):
 
 The first version of the HTPC, builded in a homemade ABS case.
 
@@ -28,3 +28,7 @@ The first version of the HTPC, builded in a homemade ABS case.
 - A main bord to control the power button and communicate with the rasp
 
 ## Raspbox 2.0
+
+A brand new version of the HTPC, same computer module with new software and hardware features.
+
+...
