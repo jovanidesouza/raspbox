@@ -7,7 +7,7 @@
 
 The first version of the HTPC, builded in a homemade ABS case.
 
-![Alt text](img/rasp1.jpg?raw=true "First version")
+![Alt text](img/rasp1.JPG)
 
 **Some features**
 
