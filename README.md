@@ -27,7 +27,7 @@ The first version of the HTPC, builded in a homemade ABS case.
 - Fans to keep cooling the system
 - Leds to indicate power and shutdown
 - 5 volts, 5 amps power supply
-- A main bord to control the power button and communicate with the rasp
+- A main bord to control the power button and communicate with the raspberry
 
 ## Raspbox 2.0
 
