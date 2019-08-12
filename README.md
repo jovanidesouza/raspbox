@@ -25,7 +25,7 @@ The first version of the HTPC, builded in a homemade ABS case.
 - Sata 3 Hard Drive (500 gb, up to 4 tb)
 - USB hub, to extend the connected devices
 - Fans to keep cooling the system
-- Leds to indicate power and shutdown
+- Leds to show power and shutdown status
 - 5 volts, 5 amps power supply
 - A main bord to control the power button and communicate with the raspberry
 
