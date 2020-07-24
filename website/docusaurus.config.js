@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'RaspBox',
+  tagline: 'A Home Theater Personal Computer Powered by Raspberry Pi',
   url: 'https://jovanidesouza.github.io',
   baseUrl: '/raspbox/',
   favicon: 'img/favicon.ico',
@@ -8,7 +8,7 @@ module.exports = {
   projectName: 'raspbox', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'RaspBox',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -22,7 +22,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/jovanidesouza/raspbox',
           label: 'GitHub',
           position: 'right',
         },
