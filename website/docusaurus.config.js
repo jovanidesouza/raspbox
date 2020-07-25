@@ -20,6 +20,12 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
+        {
+          to: 'showcase/',
+          activeBasePath: 'Showcase',
+          label: 'Showcase',
+          position: 'left',
+        },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/jovanidesouza/raspbox',
