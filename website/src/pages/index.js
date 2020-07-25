@@ -8,7 +8,7 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Easy to Use</>,
+    title: <>NAS server</>,
     imageUrl: 'img/undraw_server_q2pb.svg',
     description: (
       <>
@@ -18,7 +18,7 @@ const features = [
     ),
   },
   {
-    title: <>Focus on What Matters</>,
+    title: <>Retro gaming console</>,
     imageUrl: 'img/undraw_old_day_6x25.svg',
     description: (
       <>
@@ -28,7 +28,7 @@ const features = [
     ),
   },
   {
-    title: <>Powered by React</>,
+    title: <>Play all your media </>,
     imageUrl: 'img/undraw_video_files_fu10.svg',
     description: (
       <>
