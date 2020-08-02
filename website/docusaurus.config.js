@@ -26,12 +26,7 @@ module.exports = {
           label: 'Showcase',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/jovanidesouza/raspbox',
-          label: 'GitHub',
-          position: 'right',
-        },
+        
       ],
     },
     footer: {
