@@ -1,6 +1,6 @@
 ---
 id: hardware
 title: Hardware Guide
-sidebar_label: Get Started
+sidebar_label: Hardware Guide
 ---
 
