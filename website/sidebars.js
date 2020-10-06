@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    Docusaurus: ['doc1'],
-    Features: ['mdx'],
+    Hardware: ['hardware'],
+    Software: ['software'],
   },
 };
