@@ -7,13 +7,13 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
 
 const features = [
+
   {
-    title: <>NAS server</>,
-    imageUrl: 'img/undraw_server_q2pb.svg',
+    title: <>Play all your media </>,
+    imageUrl: 'img/undraw_video_files_fu10.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Use RaspBox to Play all your media, Movies, TV Shows, Music, Games and More.
       </>
     ),
   },
@@ -22,18 +22,16 @@ const features = [
     imageUrl: 'img/undraw_old_day_6x25.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        RaspBox is a attached computer in your screen, that can be used to emulate any Retro Game Console.
       </>
     ),
   },
   {
-    title: <>Play all your media </>,
-    imageUrl: 'img/undraw_video_files_fu10.svg',
+    title: <>NAS server</>,
+    imageUrl: 'img/undraw_server_q2pb.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        The device is by nature a small server, which can store all your files and make them available on your local network.
       </>
     ),
   },
