@@ -9,11 +9,11 @@ import styles from './styles.module.css';
 const features = [
 
   {
-    title: <>Play all your media </>,
+    title: <>Media Center </>,
     imageUrl: 'img/undraw_video_files_fu10.svg',
     description: (
       <>
-        Use RaspBox to Play all your media, Movies, TV Shows, Music, Games and More.
+        Use RaspBox to Play all your media, Movies, TV Shows, Music and More.
       </>
     ),
   },
@@ -22,7 +22,7 @@ const features = [
     imageUrl: 'img/undraw_old_day_6x25.svg',
     description: (
       <>
-        RaspBox is a attached computer in your screen, that can be used to emulate any Retro Game Console.
+        RaspBox can be used to emulate any Retro Game Console.
       </>
     ),
   },
@@ -31,7 +31,7 @@ const features = [
     imageUrl: 'img/undraw_server_q2pb.svg',
     description: (
       <>
-        The device is by nature a small server, which can store all your files and make them available on your local network.
+        Store all your files and make them available on your local network.
       </>
     ),
   },
