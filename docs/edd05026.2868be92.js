@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[25],{125:function(a){a.exports=JSON.parse('{"allTagsPath":"/raspbox/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/raspbox/blog/tags/hola"}')}}]);
